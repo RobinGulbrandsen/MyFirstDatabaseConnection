@@ -33,13 +33,13 @@
 
 ### .. Or run the script
 
-CREATE TABLE person (
-	username varchar(20),
-	password varchar(20)
-);
+	CREATE TABLE person (
+		username varchar(20),
+		password varchar(20)
+	);
 
-INSERT INTO person VALUES('Joker', '1234');
-INSERT INTO person VALUES('Catwoman', '1234');
+	INSERT INTO person VALUES('Joker', '1234');
+	INSERT INTO person VALUES('Catwoman', '1234');
 
 #INFO
 
