@@ -34,8 +34,8 @@
 ### .. Or run the script
 
 CREATE TABLE person (
-	username varchar2(20),
-	password varchar2(20)
+	username varchar(20),
+	password varchar(20)
 );
 
 INSERT INTO person VALUES('Joker', '1234');
