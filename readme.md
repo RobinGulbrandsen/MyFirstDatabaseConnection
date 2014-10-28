@@ -11,7 +11,7 @@
 7. Import...
 8. Existing Java Project into Workspace, Next
 9. Click Browse
-10. Navigate to the location of the project where you downloaded
+10. Navigate to the location of the project where you downloaded and select MyFirstDatabaseConnection
 9. Finish
 
 ## Get the program running
