@@ -23,7 +23,15 @@
 5. In the project, open the "lib" folder and select the file "mysql-connector-java-5.1.18-bin"
 6. Run the program as you use to
 
+### Setting information
+
+1. Edit SQL login credentials by editing databaseName, username and password in
+no.app.controller.DatabaseConnection
+
 ## MySQL server
+
+We require a MySQL server to be running to be able to connect to this.
+I would recommend WAMP server for windows users and MAMP for mac users.
 
 1. Start your local database server
 2. Create a database called "test"
