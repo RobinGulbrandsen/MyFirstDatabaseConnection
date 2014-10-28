@@ -49,6 +49,13 @@ I would recommend WAMP server for windows users and MAMP for mac users.
 	INSERT INTO person VALUES('Joker', '1234');
 	INSERT INTO person VALUES('Catwoman', '1234');
 
+# RUN
+
+1. Right click the project 
+2. Run As 
+3. Select Java Application
+4. Select Client - no.app.view
+
 #INFO
 
 The application follows a simple MVP pattern for CRUD at a database.
