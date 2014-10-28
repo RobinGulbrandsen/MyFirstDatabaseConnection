@@ -27,3 +27,10 @@ CREATE TABLE person (
 
 INSERT INTO person VALUES('Joker', '1234');
 INSERT INTO person VALUES('Catwoman', '1234');
+
+INFO
+====
+
+The application follows a simple MVP pattern for CRUD at a database.
+
+Happy hacking!
