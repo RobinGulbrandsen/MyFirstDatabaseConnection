@@ -1,5 +1,19 @@
 #Install
 
+## From Github to Eclipse
+
+1. Open gitbash
+2. Change directory to a directory you want the project to be located in
+3. git clone https://github.com/RobinGulbrandsen/MyFirstDatabaseConnection.git
+4. Open Eclipse
+5. Right Click the Project Explorer view
+6. Import 
+7. Import...
+8. Existing Java Project into Workspace, Next
+9. Click Browse
+10. Navigate to the location of the project where you downloaded
+9. Finish
+
 ## Get the program running
 
 1. Right click the project and select Properties (Alt + Enter)
